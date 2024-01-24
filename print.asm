@@ -1,0 +1,4 @@
+.START
+    MVI A, 03 ; 3E 03
+    OUT 01 ; D3 01
+.END
